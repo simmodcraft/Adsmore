@@ -1,0 +1,28 @@
+{
+ "Ads": [
+  {
+   "select_ads": "",
+    "select_backup_ads": "APPLOVIN",
+    "backup_mode": "0",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "",
+    "admob_nativeid": "",
+    "admob_openid": "",
+    "interval_intertitial": 5,
+    "startappid": "",
+    "fan_inter": "",
+    "fan_banner_native": "",
+    "fan_banner": "",
+    "mopub_banner": "",
+    "mopub_inter": "",
+    "applovin_banner": "",
+    "applovin_inter": ""
+
+  }
+  ],
+  "More":
+  [
+
+  ]
+}
