@@ -1,0 +1,25 @@
+{
+  "Maps": [
+    {
+      "name": "Star Wars Imperial Rain (Open World)",
+      "category": "Adventure",
+      "image": "https://gtskins.github.io/imgskin/imglink/star.jpeg",
+      "download": "https://archive.org/download/wars_maps/wars.mcworld",
+      "description": "https://gtskins.github.io/imgskin/html/starwar.html"
+    },
+    {
+      "name": "Temple Speedrunning Practice",
+      "category": "Minigame",
+      "image": "https://gtskins.github.io/imgskin/imglink/temple-speedrunning-practice_2.jpeg",
+      "download": "https://archive.org/download/temple-practice/TemplePractice.zip",
+      "description": "https://gtskins.github.io/imgskin/html/running.html"    
+    },
+    {
+      "name": "Bikini Bottom City [Creation]",
+      "category": "Creation",
+      "image": "https://gtskins.github.io/imgskin/imglink/bikini-bottom-city.jpg",
+      "download": "https://archive.org/download/bikini_bottom1/bikini_bottom1.zip",
+      "description": "https://gtskins.github.io/imgskin/html/bikini.html"
+    }
+  ]
+}
