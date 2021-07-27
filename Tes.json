@@ -10,14 +10,14 @@
     "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
     "admob_openid": "ca-app-pub-3940256099942544/3419835294",
     "interval_intertitial": 5,
-    "startappid": "",
-    "fan_inter": "",
-    "fan_banner_native": "",
-    "fan_banner": "",
-    "mopub_banner": "",
-    "mopub_inter": "",
-    "applovin_banner": "",
-    "applovin_inter": ""
+    "startappid": "206670267",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "d8cc8df0a5b8438d8e0eeef6ad45620b",
+    "mopub_inter": "8030d7ead3d043a1adc0e16303aa1439",
+    "applovin_banner": "702ebab2b187df3b",
+    "applovin_inter": "e89d5afa0a59d452"
 
   }
   ],
